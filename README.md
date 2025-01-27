@@ -1,9 +1,9 @@
-#include<iostream>
-using namespace std;
-int main(){
+#include<iostream> \r\n
+using namespace std;\r\n
+int main(){\r\n
 
-int arr[4][5]//2D array to store the numbers
-intx,y;
+int arr[4][5]//2D array to store the numbers\r\n
+intx,y;\r\n
 
 //initialize the array with numbers from 1 to 20
 for(x=0;x<4;x++){
